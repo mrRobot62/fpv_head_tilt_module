@@ -1,4 +1,4 @@
-# FPV Goggle Vibrator - Head tilt warning module
+# FPV Goggle - Head tilt warning module (Vibrator)
 Ein häufiges Problem bei FPV-Piloten, die mit Analog-Brille fliegen, ist das der Empfang hier und da schlecht ist.
 Häufig dann der Fall, wenn man auf den Boden schaut oder in die Luft. Insbesondere dann nicht sehr effektiv, wenn man als Antenne einen Patch-Antenne und eine Clover-Leave verwendet.
 Ist die Brille waagerecht, die der Empfang in der Regel am besten. Am aller besten wäre es, man könnte seinen Kopf grundsätzlich Richtung Copter drehen, geht aber eben in der Regel nicht.
