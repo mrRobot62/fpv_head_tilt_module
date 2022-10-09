@@ -87,6 +87,9 @@ Der Schaltplan ist super simpel und bedarf nur wenig Löterfahrung. Einzig die P
 ### Schaltplan
 [circuit_v0.1.pdf](https://github.com/mrRobot62/fpv_head_tilt_module/files/9742140/circuit_v0.1.pdf)
 
+<img width="844" alt="circuit_v0 1" src="https://user-images.githubusercontent.com/949032/194770294-9180aa58-ee7a-4a54-919e-4948ce4b3699.png">
+
+
 ### Bauteile
 1. **RP2040-PICO Zero (von Waveshare)** (wenn man den Vibrator wie auf dem Bild) direkt in die Brille integrieren möchte. Alternative für ist eine flaches Gehäuse irgendwo auf der Brille anzubringen. Hier kann dann auch ein Raspberry PICO verwendet werden. **BEACHTEN** bei der Verwendung eines Raspberry PICO (große Platine) muss in der Software der Motor-PIN von A3 auf A1 umgestellt werden und entsprechend muss der Motor-Pin (zb. Pin zur Basis des Transistors) auf A1 verlötet werden. [Waveshare RP2040-Zero](https://www.waveshare.com/wiki/RP2040-Zero).
 2. **Motor** Als Motor wird ein Micro-Vibrationsmotor verwendet, hier muss man im Internet suchen und ggf. das Gehäuse anpassen. Der Motor wird über einen NPN 2S3904 Transistor angesteuert. Um genügend Anlaufstrom zu erhalten ist ein Widerstand von 220Ohm zwischen Basis und dem Analog-Port geschaltet. Hier muss ggf experimentiert werden ob diese Größe für einen Motor auch funktioniert. Die Größe des Widerstands sollt minimal bei ca. 150Ohm liegen und nicht über 470Ohm gehen. Wichtig der Motor muss mit einer Freilaufdiode versehen werden (siehe Schaltplan)
