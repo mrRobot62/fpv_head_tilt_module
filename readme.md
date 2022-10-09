@@ -12,7 +12,7 @@ Auf diesem [Video](https://youtu.be/1WZ-5cJUQDE) wird kurz die Funktion des FVP 
 Bewegt man sich wieder in die Nullposition, hören die Vibrationen auf
 
 ## Technik
-* Raspberry PICO-Zero (Alternativ kann auch ein Raspberry PICO eingesetzt werden)
+* RP2040 ZERO based on Raspberry PICO (Alternativ kann auch ein Raspberry PICO eingesetzt werden). Der RP2040 Zero ist von Waveshare
 * MPU6050 (Gyro)
 * 0.49" OLED Display I2C mit einem SSD1306 Chipset für eine Anzeige
 * 4.7k - 10k Poti zur Einstellung der Sensibilität
