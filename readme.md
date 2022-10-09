@@ -31,6 +31,7 @@ Bewegt man sich wieder in die Nullposition, hören die Vibrationen auf
 * ON/OFF Schalter
 * Spannungsversorgung über die Brille
 * [StepDown-Wandler auf 5V - AMS1117, 5V](https://eckstein-shop.de/miniAMS1117-55VDC-DCStep-DownSpannungsreglerVoltageRegulatorConvertor)
+
 ![AMS1117](https://user-images.githubusercontent.com/949032/194769795-37d84487-62e2-44bf-823d-29b3abf44d24.jpg)
 
 * Eingesetzte Firmware : [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)
