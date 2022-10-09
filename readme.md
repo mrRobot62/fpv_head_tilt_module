@@ -13,12 +13,15 @@ Bewegt man sich wieder in die Nullposition, hören die Vibrationen auf
 
 ## Technik
 * [RP2040 ZERO](https://www.waveshare.com/rp2040-zero.htm) based on Raspberry PICO (Alternativ kann auch ein Raspberry PICO eingesetzt werden). Der RP2040 Zero ist von Waveshare
+
 <img width="165" alt="pico_zero_frei" src="https://user-images.githubusercontent.com/949032/194769770-72424601-ffb1-4bca-a6e1-eeb169fcb0a9.png">
 
 * [MPU6050](https://www.amazon.de/ARCELI-Beschleunigungsmesser-Gyroskop-Beschleunigungssensor-Datenausgang/dp/B07BVXN2GP/ref=sr_1_3?keywords=mpu6050&qid=1665312544&qu=eyJxc2MiOiIzLjYzIiwicXNhIjoiMy4zMCIsInFzcCI6IjMuMTcifQ%3D%3D&sr=8-3) (Gyro)
+
 ![MPU6050](https://user-images.githubusercontent.com/949032/194769779-df939d6f-498f-4515-9833-05c638b296f3.jpg)
 
 * [0.49" OLED Display I2C](https://www.ebay.de/itm/274101897584?chn=ps&_trkparms=ispr%3D1&amdata=enc%3A1eqin1ldXRbulkwwG6EjTDA92&norover=1&mkevt=1&mkrid=707-134425-41852-0&mkcid=2&mkscid=101&itemid=274101897584&targetid=1716911581439&device=c&mktype=pla&googleloc=9043417&poi=&campaignid=17943303986&mkgroupid=140642150118&rlsatarget=pla-1716911581439&abcId=9301060&merchantid=112143330&gclid=Cj0KCQjw4omaBhDqARIsADXULuVNMtXGmQVQi-vVaXVg5F0MubSr5O0EkHdSjAeiGJy8hpLhxXdTruoaArmoEALw_wcB) mit einem SSD1306 Chipset für eine Anzeige
+
 ![oled_ssd1306](https://user-images.githubusercontent.com/949032/194769789-19d6cde1-6f5a-4627-b89d-366d06c360b5.jpg)
 
 * 4.7k - 10k Poti zur Einstellung der Sensibilität
