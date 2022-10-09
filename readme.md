@@ -12,14 +12,14 @@ Auf diesem [Video](https://youtu.be/1WZ-5cJUQDE) wird kurz die Funktion des FVP 
 Bewegt man sich wieder in die Nullposition, hören die Vibrationen auf
 
 ## Technik
-* RP2040 ZERO based on Raspberry PICO (Alternativ kann auch ein Raspberry PICO eingesetzt werden). Der RP2040 Zero ist von Waveshare
-* MPU6050 (Gyro)
-* 0.49" OLED Display I2C mit einem SSD1306 Chipset für eine Anzeige
+* [RP2040 ZERO](https://www.waveshare.com/rp2040-zero.htm) based on Raspberry PICO (Alternativ kann auch ein Raspberry PICO eingesetzt werden). Der RP2040 Zero ist von Waveshare
+* [MPU6050](https://www.amazon.de/ARCELI-Beschleunigungsmesser-Gyroskop-Beschleunigungssensor-Datenausgang/dp/B07BVXN2GP/ref=sr_1_3?keywords=mpu6050&qid=1665312544&qu=eyJxc2MiOiIzLjYzIiwicXNhIjoiMy4zMCIsInFzcCI6IjMuMTcifQ%3D%3D&sr=8-3) (Gyro)
+* [0.49" OLED Display I2C](https://www.ebay.de/itm/274101897584?chn=ps&_trkparms=ispr%3D1&amdata=enc%3A1eqin1ldXRbulkwwG6EjTDA92&norover=1&mkevt=1&mkrid=707-134425-41852-0&mkcid=2&mkscid=101&itemid=274101897584&targetid=1716911581439&device=c&mktype=pla&googleloc=9043417&poi=&campaignid=17943303986&mkgroupid=140642150118&rlsatarget=pla-1716911581439&abcId=9301060&merchantid=112143330&gclid=Cj0KCQjw4omaBhDqARIsADXULuVNMtXGmQVQi-vVaXVg5F0MubSr5O0EkHdSjAeiGJy8hpLhxXdTruoaArmoEALw_wcB) mit einem SSD1306 Chipset für eine Anzeige
 * 4.7k - 10k Poti zur Einstellung der Sensibilität
 * Taster für Kalibration
 * ON/OFF Schalter
 * Spannungsversorgung über die Brille
-* StepDown-Wandler auf 5V - AMS1117, 5V
+* [StepDown-Wandler auf 5V - AMS1117, 5V](https://eckstein-shop.de/miniAMS1117-55VDC-DCStep-DownSpannungsreglerVoltageRegulatorConvertor)
 * Eingesetzte Firmware : CircuitPython
 
 >**Schaltplan** fehlt noch - in Fritzing gibts keinen PICO-ZERO :-(
