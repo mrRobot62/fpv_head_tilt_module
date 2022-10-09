@@ -22,6 +22,8 @@ Bewegt man sich wieder in die Nullposition, hören die Vibrationen auf
 * StepDown-Wandler auf 5V
 * Eingesetzte Firmware : CircuitPython
 
+>**Schaltplan** fehlt noch - in Fritzing gibts keinen PICO-ZERO :-(
+
 # Installation
 ## Circuit-Python installieren
 Detaillierte Beschreibung zur Installation von CircuitPython findet ihr auf den Seiten von [Adafruit](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython). Die Installation auf einem Zero ist exakt das gleiche Vorgehen.
