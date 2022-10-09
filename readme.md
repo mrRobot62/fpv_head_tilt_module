@@ -19,7 +19,7 @@ Bewegt man sich wieder in die Nullposition, hören die Vibrationen auf
 * Taster für Kalibration
 * ON/OFF Schalter
 * Spannungsversorgung über die Brille
-* StepDown-Wandler auf 5V
+* StepDown-Wandler auf 5V - AMS1117, 5V
 * Eingesetzte Firmware : CircuitPython
 
 >**Schaltplan** fehlt noch - in Fritzing gibts keinen PICO-ZERO :-(
